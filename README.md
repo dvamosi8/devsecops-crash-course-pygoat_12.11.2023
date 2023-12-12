@@ -1,3 +1,6 @@
+# READ THIS
+watched this video and used this repo: https://www.youtube.com/watch?v=gLJdrXPn0ns
+
 # PyGoat
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
